@@ -36,7 +36,7 @@ pipeline {
             echo 'CI Pipeline completed successfully! Code stability confirmed.'
         }
         failure {
-            echo 'CI Pipeline failed and broken BLAH. Check console logs.'
+            echo 'CI Pipeline failed and broken BLAHAAAAA. Check console logs.'
         }
     }
 }
